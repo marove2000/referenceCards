@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="THT_back.svg">
+   sodipodi:docname="THT_back.svg"
+   inkscape:export-filename="/home/timo/Nextcloud/Workspace/referenceCards/THT/THT_back.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <rect
@@ -639,16 +642,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="141.95808"
-     inkscape:cy="97.412138"
+     inkscape:cx="141.453"
+     inkscape:cy="108.14271"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="2048"
+     inkscape:window-height="1055"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -767,12 +770,12 @@
                  id="tspan1057"
                  x="27.906862"
                  y="28.240698"
-                 style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.177578">Remove Insulation</tspan><tspan
+                 style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.177578">remove insulation;</tspan><tspan
                  sodipodi:role="line"
                  x="27.906862"
                  y="30.463202"
                  style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.177578"
-                 id="tspan1061">Pre-tin each wire</tspan></text>
+                 id="tspan1061">pre-tin each wire</tspan></text>
           </g>
           <g
              id="g1207"
@@ -844,12 +847,12 @@
                  x="27.128239"
                  y="53.80426"
                  style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.177578"
-                 id="tspan1145">Place pretinnd wires together</tspan><tspan
+                 id="tspan1145">place pre-tinned wires together;</tspan><tspan
                  sodipodi:role="line"
                  x="27.128239"
                  y="56.026764"
                  style="font-size:2.11667px;text-align:center;text-anchor:middle;stroke-width:0.177578"
-                 id="tspan1149">Touch with hot sodering iron</tspan></text>
+                 id="tspan1149">touch with hot sodering iron</tspan></text>
             <path
                style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.11105;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                d="m 22.206815,41.982868 c -0.117158,-0.750315 0.756745,-0.862221 2.613484,-0.841593 1.856742,0.02063 3.32453,0.03897 3.113941,0.940603 -0.210587,0.901632 -1.439983,0.801427 -3.086135,0.792087 -1.646155,-0.0093 -2.524131,-0.140783 -2.64129,-0.891097 z"
@@ -1006,6 +1009,33 @@
            x="50.880531"
            y="7.807518" />
       </g>
+    </g>
+    <g
+       id="g1325-3"
+       style="fill:#333333"
+       transform="rotate(-90,75.042584,53.996085)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.23796px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:0.864151;stroke:none;stroke-width:0.030949"
+         x="68.902588"
+         y="60.731262"
+         id="text961-6"><tspan
+           sodipodi:role="line"
+           id="tspan959-6"
+           x="68.902588"
+           y="60.731262"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.030949">CC-BY-SA 4.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.83427px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0458568"
+         x="68.843842"
+         y="59.460548"
+         id="text961-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan959-6-4"
+           x="68.843842"
+           y="59.460548"
+           style="fill:#333333;stroke-width:0.0458568">Timo Schindler</tspan></text>
     </g>
   </g>
 </svg>
