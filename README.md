@@ -1,7 +1,9 @@
 # Sodlering Reference Cards
 
 Designed to be handed out to soldering kits or soldering courses to get a cheat sheet for the participants.
-Use 85x55mm business-card prints.
+
+Print area is: 85x55mm
+Document area is: 91x61mm
 
 ## SMD Reference Card
 <img src="images/SMD_front.png" width=300px alt="SMD Card front"> <img src="images/SMD_back.png" width=300px alt="SMD Card back">

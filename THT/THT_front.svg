@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="85mm"
-   height="55mm"
-   viewBox="0 0 84.999998 55.000001"
+   width="91mm"
+   height="61mm"
+   viewBox="0 0 90.999998 61.000001"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -638,17 +638,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="399.02612"
-     inkscape:cy="-181.34457"
+     inkscape:zoom="2.8"
+     inkscape:cx="208.04379"
+     inkscape:cy="63.838718"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="1343"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"
@@ -664,7 +664,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -690,7 +690,7 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1549);fill:#000000;fill-opacity:1;stroke:none;" />
     <g
        id="g6004"
-       transform="matrix(0.33917339,0,0,-0.33917339,-2.1260226,60.316594)">
+       transform="matrix(0.33917339,0,0,-0.33917339,0.87397736,63.316594)">
       <g
          id="g979"
          transform="rotate(180,126.16516,76.825292)">

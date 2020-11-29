@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="85mm"
-   height="55mm"
-   viewBox="0 0 84.999998 55.000001"
+   width="91mm"
+   height="61mm"
+   viewBox="0 0 90.999998 61.000001"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -33,16 +33,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4438949"
-     inkscape:cx="158.58175"
-     inkscape:cy="140.2579"
+     inkscape:zoom="1.7280947"
+     inkscape:cx="112.16323"
+     inkscape:cy="7.1137587"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="983"
-     inkscape:window-x="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1343"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,13 +68,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.4475644,-6.6735895)">
-    <rect
-       style="fill:#d5f6ff;fill-opacity:0.5;stroke:none;stroke-width:0.534666;stroke-dasharray:1.06933, 2.13866999999999985"
-       id="rect966"
-       width="85"
-       height="55"
-       x="-1.4475644"
-       y="6.6735897" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -90,9 +83,16 @@
        xml:space="preserve"
        id="text1547"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1549);fill:#000000;fill-opacity:1;stroke:none;" />
+    <rect
+       style="fill:#d5f6ff;fill-opacity:0.5;stroke:none;stroke-width:0.582609;stroke-dasharray:1.16522, 2.33045"
+       id="rect966"
+       width="91"
+       height="61"
+       x="-1.4475644"
+       y="6.6735897" />
     <g
        id="g895-1-9-4"
-       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,19.834477,28.249532)">
+       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,22.834477,31.249532)">
       <rect
          style="fill:#000000;fill-opacity:0.379376;stroke:#000000;stroke-width:0.111672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect879-8-2-7"
@@ -111,26 +111,26 @@
        id="rect833-0-2-8-4"
        width="22.692806"
        height="0.74550855"
-       x="11.700473"
-       y="53.307674" />
+       x="14.700473"
+       y="56.307674" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-3-2-2-9-5"
        width="5.6377625"
        height="0.67783821"
-       x="25.848837"
-       y="52.606422" />
+       x="28.848837"
+       y="55.606422" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-0-6-6-3-7-0"
        width="5.6377625"
        height="0.67783815"
-       x="-20.244913"
-       y="52.607079"
+       x="-23.244913"
+       y="55.607079"
        transform="scale(-1,1)" />
     <g
        id="g1255"
-       transform="matrix(0.37840167,0,0,0.37840167,7.5933375,-30.42441)">
+       transform="matrix(0.37840167,0,0,0.37840167,10.593338,-27.42441)">
       <g
          id="g877-6-61"
          transform="translate(6.0848828,201.2324)">
@@ -165,27 +165,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.13587px;line-height:1.15;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.100119"
-       x="23.039055"
-       y="56.45166"
+       x="26.039055"
+       y="59.45166"
        id="text1419-0-8-8"><tspan
          sodipodi:role="line"
-         x="23.039055"
-         y="56.45166"
+         x="26.039055"
+         y="59.45166"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1466-3">Center part onto pad</tspan><tspan
          sodipodi:role="line"
-         x="23.039055"
-         y="58.907909"
+         x="26.039055"
+         y="61.907909"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1494">Continue heating 1-2s</tspan><tspan
          sodipodi:role="line"
-         x="23.039055"
-         y="61.364162"
+         x="26.039055"
+         y="64.364159"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1443-8-1" /></text>
     <g
        id="g1617"
-       transform="matrix(0.37840167,0,0,0.37840167,-42.691024,-19.231589)">
+       transform="matrix(0.37840167,0,0,0.37840167,-39.691024,-16.231589)">
       <circle
          style="fill:#0082a9;fill-opacity:1;stroke:#000000;stroke-width:0.0947319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1520-6-4"
@@ -206,7 +206,7 @@
     </g>
     <g
        id="g895-1-9-4-5"
-       transform="matrix(-0.28902608,0.24423708,0.24423708,0.28902608,61.343256,28.662118)">
+       transform="matrix(-0.28902608,0.24423708,0.24423708,0.28902608,64.343256,31.662118)">
       <rect
          style="fill:#000000;fill-opacity:0.379376;stroke:#000000;stroke-width:0.111672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect879-8-2-7-5"
@@ -225,27 +225,27 @@
        id="rect833-0-2-8-4-7"
        width="22.692806"
        height="0.74550855"
-       x="-69.477257"
-       y="53.720264"
+       x="-72.477257"
+       y="56.720264"
        transform="scale(-1,1)" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-3-2-2-9-5-6"
        width="5.6377625"
        height="0.67783821"
-       x="-55.328896"
-       y="53.019012"
+       x="-58.328896"
+       y="56.019012"
        transform="scale(-1,1)" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-0-6-6-3-7-0-5"
        width="5.6377625"
        height="0.67783821"
-       x="60.932819"
-       y="53.019676" />
+       x="63.932819"
+       y="56.019676" />
     <g
        id="g1367-2"
-       transform="matrix(-0.37840167,0,0,0.37840167,75.075388,31.105704)">
+       transform="matrix(-0.37840167,0,0,0.37840167,78.075388,34.105704)">
       <g
          id="g877-6-6-5"
          transform="translate(10.025117,39.763873)">
@@ -285,27 +285,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.13587px;line-height:1.15;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.100119"
-       x="58.123032"
-       y="56.864254"
+       x="61.123032"
+       y="59.864254"
        id="text1419-0-8-8-4"><tspan
          sodipodi:role="line"
-         x="58.123032"
-         y="56.864254"
+         x="61.123032"
+         y="59.864254"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1466-3-9">Heat other side and pad</tspan><tspan
          sodipodi:role="line"
-         x="58.123032"
-         y="59.320503"
+         x="61.123032"
+         y="62.320503"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1494-2">Add solder</tspan><tspan
          sodipodi:role="line"
-         x="58.123032"
-         y="61.776756"
+         x="61.123032"
+         y="64.776756"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1443-8-1-0" /></text>
     <g
        id="g1607"
-       transform="matrix(0.37840167,0,0,0.37840167,-3.966177,-13.155431)">
+       transform="matrix(0.37840167,0,0,0.37840167,-0.966177,-10.155431)">
       <circle
          style="fill:#0082a9;fill-opacity:1;stroke:#000000;stroke-width:0.0947319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1520-6-0"
@@ -326,7 +326,7 @@
     </g>
     <g
        id="g895"
-       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,8.6530636,8.9052472)">
+       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,11.653064,11.905247)">
       <rect
          style="fill:#000000;fill-opacity:0.379376;stroke:#000000;stroke-width:0.111672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect879"
@@ -345,37 +345,37 @@
        id="rect833-0"
        width="22.692806"
        height="0.74550855"
-       x="0.51906115"
-       y="33.96339" />
+       x="3.5190611"
+       y="36.96339" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-3-2"
        width="5.6377625"
        height="0.67783821"
-       x="14.667426"
-       y="33.262138" />
+       x="17.667427"
+       y="36.262138" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-0-6-6"
        width="5.637763"
        height="0.67783821"
-       x="-9.0635023"
-       y="33.262794"
+       x="-12.063502"
+       y="36.262794"
        transform="scale(-1,1)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.13587px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.100119"
-       x="4.371685"
-       y="37.10738"
+       x="7.371685"
+       y="40.10738"
        id="text1419"><tspan
          sodipodi:role="line"
          id="tspan1417"
-         x="4.371685"
-         y="37.10738"
+         x="7.371685"
+         y="40.10738"
          style="font-size:2.13587px;stroke-width:0.100119">Heat pad 2-3s</tspan></text>
     <g
        id="g1597"
-       transform="matrix(0.37840167,0,0,0.37840167,-40.530938,-27.034527)">
+       transform="matrix(0.37840167,0,0,0.37840167,-37.530938,-24.034527)">
       <circle
          style="fill:#0082a9;fill-opacity:1;stroke:#000000;stroke-width:0.094732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1520"
@@ -396,7 +396,7 @@
     </g>
     <g
        id="g895-1"
-       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,35.379963,8.9052469)">
+       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,38.379963,11.905247)">
       <rect
          style="fill:#000000;fill-opacity:0.379376;stroke:#000000;stroke-width:0.111672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect879-8"
@@ -415,47 +415,47 @@
        id="rect833-0-2"
        width="22.692806"
        height="0.74550855"
-       x="27.245956"
-       y="33.963387" />
+       x="30.245956"
+       y="36.963387" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-3-2-2"
        width="5.6377625"
        height="0.67783821"
-       x="41.394318"
-       y="33.262135" />
+       x="44.394318"
+       y="36.262135" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-0-6-6-3"
        width="5.6377625"
        height="0.67783821"
-       x="-35.790398"
-       y="33.262798"
+       x="-38.790398"
+       y="36.262798"
        transform="scale(-1,1)" />
     <path
        style="fill:#000000;fill-opacity:0.7;stroke:#000000;stroke-width:0.0378402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 41.454197,33.244979 h 5.515745 c -0.663016,-1.190834 -1.080465,-1.79753 -2.683556,-1.795675 -1.603091,0.0019 -2.11211,0.27814 -2.832189,1.795675 z"
+       d="m 44.454197,36.244979 h 5.515745 c -0.663016,-1.190834 -1.080465,-1.79753 -2.683556,-1.795675 -1.603091,0.0019 -2.11211,0.27814 -2.832189,1.795675 z"
        id="path897-7"
        sodipodi:nodetypes="cczc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.13587px;line-height:1.15;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.100119"
-       x="38.584534"
-       y="37.10738"
+       x="41.584534"
+       y="40.10738"
        id="text1419-0"><tspan
          sodipodi:role="line"
          id="tspan1417-7"
-         x="38.584534"
-         y="37.10738"
+         x="41.584534"
+         y="40.10738"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119">Add solder</tspan><tspan
          sodipodi:role="line"
-         x="38.584534"
-         y="39.563629"
+         x="41.584534"
+         y="42.563629"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1443">Keep heating</tspan></text>
     <g
        id="g1602"
-       transform="matrix(0.37840167,0,0,0.37840167,-29.673924,-33.589589)">
+       transform="matrix(0.37840167,0,0,0.37840167,-26.673924,-30.589589)">
       <circle
          style="fill:#0082a9;fill-opacity:1;stroke:#000000;stroke-width:0.0947319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1520-6"
@@ -476,7 +476,7 @@
     </g>
     <g
        id="g895-1-9"
-       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,63.426635,8.8172488)">
+       transform="matrix(0.28902607,0.24423708,-0.24423708,0.28902607,66.426635,11.817249)">
       <rect
          style="fill:#000000;fill-opacity:0.379376;stroke:#000000;stroke-width:0.111672;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect879-8-2"
@@ -495,31 +495,31 @@
        id="rect833-0-2-8"
        width="22.692806"
        height="0.74550855"
-       x="55.292633"
-       y="33.875397" />
+       x="58.292633"
+       y="36.875397" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-3-2-2-9"
        width="5.6377625"
        height="0.67783821"
-       x="69.440994"
-       y="33.174141" />
+       x="72.440994"
+       y="36.174141" />
     <rect
        style="fill:#000000;fill-opacity:0.237495;stroke:#000000;stroke-width:0.0721618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect835-5-2-0-6-6-3-7"
        width="5.6377625"
        height="0.67783821"
-       x="-63.837074"
-       y="33.174805"
+       x="-66.837074"
+       y="36.174805"
        transform="scale(-1,1)" />
     <path
        style="fill:#000000;fill-opacity:0.7;stroke:#000000;stroke-width:0.0378402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 69.500872,33.156977 h 5.515745 c -0.66302,-1.190834 -1.080465,-1.797525 -2.683556,-1.795675 -1.603091,0.0019 -2.11211,0.27814 -2.832189,1.795675 z"
+       d="m 72.500872,36.156977 h 5.515745 c -0.66302,-1.190834 -1.080465,-1.797525 -2.683556,-1.795675 -1.603091,0.0019 -2.11211,0.27814 -2.832189,1.795675 z"
        id="path897-7-3"
        sodipodi:nodetypes="cczc" />
     <g
        id="g877-61"
-       transform="matrix(0.37840167,0,0,0.37840167,49.984855,25.890095)">
+       transform="matrix(0.37840167,0,0,0.37840167,52.984855,28.890095)">
       <rect
          style="fill:#000000;fill-opacity:0.806967;stroke:#000000;stroke-width:0.0998701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect837-2"
@@ -545,27 +545,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.13587px;line-height:1.15;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.100119"
-       x="66.665627"
-       y="37.019382"
+       x="69.665627"
+       y="40.019382"
        id="text1419-0-8"><tspan
          sodipodi:role="line"
          id="tspan1417-7-6"
-         x="66.665627"
-         y="37.019382"
+         x="69.665627"
+         y="40.019382"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119">Reheat solder</tspan><tspan
          sodipodi:role="line"
-         x="66.665627"
-         y="39.475632"
+         x="69.665627"
+         y="42.475632"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1466">Slide part onto pad</tspan><tspan
          sodipodi:role="line"
-         x="66.665627"
-         y="41.931885"
+         x="69.665627"
+         y="44.931885"
          style="font-size:2.13587px;text-align:center;text-anchor:middle;stroke-width:0.100119"
          id="tspan1443-8" /></text>
     <g
        id="g1612"
-       transform="matrix(0.37840167,0,0,0.37840167,9.9158907,-40.016831)">
+       transform="matrix(0.37840167,0,0,0.37840167,12.915891,-37.016831)">
       <circle
          style="fill:#0082a9;fill-opacity:1;stroke:#000000;stroke-width:0.0947319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1520-6-2"
@@ -587,25 +587,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.33966px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.167005"
-       x="60.882671"
-       y="-26.136036"
+       x="63.882671"
+       y="-29.136036"
        id="text1864"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
          id="tspan1862"
-         x="60.882671"
-         y="-26.136036"
+         x="63.882671"
+         y="-29.136036"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33966px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.167005">→</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="5.035677"
-       y="17.067934"
+       x="8.035677"
+       y="20.067934"
        id="text961"><tspan
          sodipodi:role="line"
          id="tspan959"
-         x="5.035677"
-         y="17.067934"
+         x="8.035677"
+         y="20.067934"
          style="font-size:9.87778px;fill:#4d4d4d;stroke-width:0.264583">SMD Soldering</tspan></text>
     <text
        xml:space="preserve"

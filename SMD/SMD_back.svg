@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="85mm"
-   height="55mm"
-   viewBox="0 0 84.999998 55.000001"
+   width="91mm"
+   height="61mm"
+   viewBox="0 0 90.999998 61.000001"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -40,9 +40,9 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="983"
-     inkscape:window-x="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1343"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,13 +68,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.4475644,-6.6735895)">
-    <rect
-       style="fill:#d5f6ff;fill-opacity:0.5;stroke:none;stroke-width:0.534665;stroke-dasharray:1.06933, 2.13866999999999985"
-       id="rect966"
-       width="85.000008"
-       height="55.000004"
-       x="-1.4475682"
-       y="6.6735878" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -90,21 +83,28 @@
        xml:space="preserve"
        id="text1547"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1549);fill:#000000;fill-opacity:1;stroke:none;" />
+    <rect
+       style="fill:#d5f6ff;fill-opacity:0.5;stroke:none;stroke-width:0.582608;stroke-dasharray:1.16522, 2.33045"
+       id="rect966"
+       width="91"
+       height="61"
+       x="-1.4475644"
+       y="6.6735897" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="0.49469635"
-       y="17.067934"
+       x="3.4946964"
+       y="20.067934"
        id="text961"><tspan
          sodipodi:role="line"
          id="tspan959"
-         x="0.49469635"
-         y="17.067934"
+         x="3.4946964"
+         y="20.067934"
          style="font-size:9.87778px;fill:#4d4d4d;stroke-width:0.264583">SMD Orientation</tspan></text>
     <g
        id="g1325"
        style="fill:#333333"
-       transform="translate(-0.52916667,-1.0583333)">
+       transform="translate(2.4708333,1.9416665)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:1.23796px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:0.864151;stroke:none;stroke-width:0.030949"
@@ -130,7 +130,7 @@
     </g>
     <g
        id="g1497"
-       transform="matrix(0.45295055,0,0,0.45295055,61.542401,27.97742)">
+       transform="matrix(0.45295055,0,0,0.45295055,64.542401,30.97742)">
       <g
          id="g1401"
          transform="translate(-3.2127976,-16.063988)">
@@ -284,7 +284,7 @@
     </g>
     <g
        id="g1452"
-       transform="matrix(0.45295055,0,0,0.45295055,78.657687,58.678265)">
+       transform="matrix(0.45295055,0,0,0.45295055,81.657687,61.678265)">
       <g
          id="g995"
          transform="translate(70.870536,-88.25744)">
@@ -410,15 +410,15 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.075;stroke-miterlimit:4;stroke-dasharray:0.9,0.9;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.075;stroke-miterlimit:4;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1499-9"
        width="25.531294"
        height="30.343367"
-       x="55.413506"
-       y="22.753603" />
+       x="58.413506"
+       y="25.753603" />
     <g
        id="g1469"
-       transform="matrix(0.45295055,0,0,0.45295055,88.45722,48.665264)">
+       transform="matrix(0.45295055,0,0,0.45295055,91.45722,51.665264)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.87035px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.196759"
@@ -506,11 +506,11 @@
            id="tspan1040">negative side (cathode) </tspan></text>
     </g>
     <rect
-       style="fill:none;stroke-width:0.075;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.9,0.9;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.075;stroke-miterlimit:4;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1032"
        width="52.665932"
        height="30.343367"
-       x="1.1600821"
-       y="22.753603" />
+       x="4.1600819"
+       y="25.753603" />
   </g>
 </svg>
