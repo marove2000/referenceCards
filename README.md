@@ -1,4 +1,4 @@
-# Sodlering Reference Cards
+# Soldering Reference Cards
 
 Designed to be handed out to soldering kits or soldering courses to get a cheat sheet for the participants.
 
