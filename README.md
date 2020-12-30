@@ -1,6 +1,6 @@
-# Sodlering Reference Cards
+# Soldering Reference Cards
 
-Designed to be handed out to soldering kits or soldering courses to get a cheat sheet for the participants.
+Designed to be handed out with soldering kits or at soldering courses to get a cheat sheet for the participants.
 
 Print area is: 85x55mm
 Document area is: 91x61mm
